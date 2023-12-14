@@ -33,7 +33,8 @@
     {
       "src": "./images/screenshot1.png",
       "sizes": "800x600",
-      "type": "image/png"
+      "type": "image/png",
+      "form_factor": "wide"
     },
     {
       "src": "./images/screenshot2.png",
